@@ -4,6 +4,7 @@ a = 0
 b = 1
 
 print("Fibonacci sequence:")
+print("Number of terms:", n)
 
 for i in range(n):
     print(a, end=" ")
